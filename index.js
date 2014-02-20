@@ -7,7 +7,7 @@
  * licence MIT
  */
 
-var classes = require('classes');
+var classes = require('component-classes');
 
 module.exports = Carousel;
 
